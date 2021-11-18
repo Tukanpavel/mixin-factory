@@ -1,0 +1,24 @@
+{
+  "name": "mixins-factory",
+  "version": "1.0.0",
+  "description": "Yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tukanpavel/mixin-factory.git"
+  },
+  "keywords": [
+    "factory",
+    "function"
+  ],
+  "author": "Yes.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tukanpavel/mixin-factory/issues"
+  },
+  "homepage": "https://github.com/Tukanpavel/mixin-factory#readme",
+  "type": "module"
+}
